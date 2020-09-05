@@ -16,6 +16,7 @@
 		52ABCF7725013DD8009046D4 /* TipCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52ABCF7625013DD8009046D4 /* TipCalculatorTests.swift */; };
 		52ABCF8225013DD8009046D4 /* TipCalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52ABCF8125013DD8009046D4 /* TipCalculatorUITests.swift */; };
 		52ABCF9225015691009046D4 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52ABCF9125015691009046D4 /* SettingsViewController.swift */; };
+		52EC57D025034CB100632253 /* walkthrough.gif in Resources */ = {isa = PBXBuildFile; fileRef = 52EC57CF25034CB100632253 /* walkthrough.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		52ABCF8125013DD8009046D4 /* TipCalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipCalculatorUITests.swift; sourceTree = "<group>"; };
 		52ABCF8325013DD8009046D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		52ABCF9125015691009046D4 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		52EC57CF25034CB100632253 /* walkthrough.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = walkthrough.gif; path = ../../../../walkthrough.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				52ABCF6A25013DD7009046D4 /* LaunchScreen.storyboard */,
 				52ABCF6D25013DD7009046D4 /* Info.plist */,
 				52ABCF9125015691009046D4 /* SettingsViewController.swift */,
+				52EC57CF25034CB100632253 /* walkthrough.gif */,
 			);
 			path = TipCalculator;
 			sourceTree = "<group>";
@@ -238,6 +241,7 @@
 				52ABCF6C25013DD7009046D4 /* LaunchScreen.storyboard in Resources */,
 				52ABCF6925013DD7009046D4 /* Assets.xcassets in Resources */,
 				52ABCF6725013DD3009046D4 /* Main.storyboard in Resources */,
+				52EC57D025034CB100632253 /* walkthrough.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
